@@ -48,7 +48,7 @@ export const features: Feature[] = [
   {
     id: 'edging',
     name: 'Decorative Edging',
-    description: 'Elegant borders to enhance your driveway's appearance.',
+    description: 'Elegant borders to enhance your driveway\'s appearance.',
     price: 850
   },
   {
